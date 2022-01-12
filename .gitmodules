@@ -1,0 +1,6 @@
+[submodule "deps/chop"]
+	path = deps/chop
+	url = git@github.com:higham/chop.git
+[submodule "deps/cpfloat"]
+	path = deps/cpfloat
+	url = git@github.com:mfasi/cpfloat.git
