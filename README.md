@@ -11,7 +11,7 @@ These scripts rely on the [chop](https://github.com/higham/chop) library for imp
 
 ### References
 
- [1] M. Croci, M. Fasi, N. J. Higham, T. Mary, and M. Mikaitis. [*Stochastic Rounding: Implementation, Error Analysis, and Applications*](http://eprints.maths.manchester.ac.uk/2836/). Technical Report 2021.17, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, October 20201. Revised January 2022. To appear in R. Soc. Open Sci.
+ [1] M. Croci, M. Fasi, N. J. Higham, T. Mary, and M. Mikaitis. [*Stochastic Rounding: Implementation, Error Analysis, and Applications*](https://royalsocietypublishing.org/doi/10.1098/rsos.211631). R. Soc. Open Sci., 9:3. Mar. 2022.
 
 ### License
 
